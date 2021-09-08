@@ -291,6 +291,7 @@ h1 {
 	box-shadow: 0 4px 8px rgba(255, 255, 255, 0.08);
 }
 .support {
+	display: none !important;
 	position: fixed;
 	right: 10px;
 	bottom: 10px;
