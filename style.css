@@ -12,6 +12,28 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	/* background color animation */
+	animation-name: backgroundColorPalette;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+@keyframes backgroundColorPalette {
+	0% {
+		background: #ffff3f;
+	}
+	25% {
+		background: #dddf00;
+	}
+	50% {
+		background: #aacc00;
+	}
+	75% {
+		background: #55a630;
+	}
+	100% {
+		background: #55a630;
+	}
 }
 button {
 	border: 0;
@@ -241,7 +263,7 @@ h1 {
 	cursor: not-allowed;
 }
 .settings .setting input:disabled + label:before {
-	background: #4f4f6a;
+	background: #000000;
 }
 .settings .setting input:disabled + label:after {
 	background: #909090;
