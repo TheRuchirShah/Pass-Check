@@ -347,6 +347,11 @@ a:hover {
 	.main-area {
 		text-align: center;
 	}
+	.end-area a {
+		text-decoration: none !important;
+		font-size: 18px;
+		font-weight: 500;
+	}
 }
 @media (min-width: 400px) {
 	.container {
@@ -355,6 +360,11 @@ a:hover {
 	}
 	.main-area {
 		text-align: center;
+	}
+	.end-area a {
+		text-decoration: none !important;
+		font-size: 18px;
+		font-weight: 500;
 	}
 }
 @media (min-width: 600px) {
@@ -365,6 +375,11 @@ a:hover {
 	.main-area {
 		text-align: center;
 	}
+	.end-area a {
+		text-decoration: none !important;
+		font-size: 18px;
+		font-weight: 500;
+	}
 }
 @media (min-width: 768px) {
 	.container {
@@ -373,6 +388,11 @@ a:hover {
 	}
 	.main-area {
 		text-align: center;
+	}
+	.end-area a {
+		text-decoration: none !important;
+		font-size: 18px;
+		font-weight: 500;
 	}
 }
 @media (min-width: 992px) {
@@ -383,6 +403,11 @@ a:hover {
 	.main-area {
 		text-align: center;
 	}
+	.end-area a {
+		text-decoration: none !important;
+		font-size: 18px;
+		font-weight: 500;
+	}
 }
 @media (min-width: 1000px) {
 	.container {
@@ -391,5 +416,10 @@ a:hover {
 	}
 	.main-area {
 		text-align: center;
+	}
+	.end-area a {
+		text-decoration: none !important;
+		font-size: 18px;
+		font-weight: 500;
 	}
 }
