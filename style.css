@@ -333,7 +333,7 @@ a:hover {
 	margin-bottom: 30px;
 }
 .end-area a {
-	text-decoration: none;
+    text-decoration: none !important;
     font-size: 18px;
     font-weight: 500;
 }
@@ -349,22 +349,22 @@ a:hover {
 	}
 }
 @media (min-width: 400px) {
-		.container {
-			width: 90%;
-			margin-top: 30px;
-		}
-		.main-area {
-			text-align: center;
-		}
+	.container {
+		width: 90%;
+		margin-top: 30px;
+	}
+	.main-area {
+		text-align: center;
+	}
 }
 @media (min-width: 600px) {
-		.container {
-			width: 90%;
-			margin-top: 30px;
-		}
-		.main-area {
-			text-align: center;
-		}
+	.container {
+		width: 90%;
+		margin-top: 30px;
+	}
+	.main-area {
+		text-align: center;
+	}
 }
 @media (min-width: 768px) {
 	.container {
