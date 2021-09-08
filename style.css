@@ -329,6 +329,14 @@ a:hover {
 		transform: rotate(10deg);
    }
 }
+.end-area {
+	margin-bottom: 30px;
+}
+.end-area a {
+	text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
 
 /* Responsive media querries */
 @media (min-width: 300px) {
