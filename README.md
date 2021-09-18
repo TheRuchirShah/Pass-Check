@@ -1,16 +1,17 @@
-# Password-Generator
+# Password-Generator & Strength Checker
+To Generator Password and Strength Checker
 
-## Password Generator
+**I've created this website to generate new passwords and check passwords strength. It does not store your data.**
 
-This site has password generator and password strenth checker 
+[![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
 
-You can create a new passwords with customizable parameters (upper-case, lower-case, numbers, symbols, characters length)
+You can create a new passwords with customizable parameters like upper-case letters, lower-case letters, numbers, special characters, and characters length)
 
 
 - **Upper-case - ABCDEFGHIJKLMNOPQRSTUVWXYZ**
 - **Lower-case -  abcdefghijklmnopqrstuvwxyz**
 - **Numbers - 0123456789**
-- **Symbols - '~!@#$%^ ...(many more)**
+- **special characters - '~!@#$%^ ...(& many more)**
 - **Characters length - 32**
 
 
