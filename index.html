@@ -66,6 +66,48 @@
             </div>
             <button class="btn generate" id="generate">Generate Password</button>
         </div>
+                <!-- pass strength check -->
+        <h1>Password Strength Check</h1>
+        <div class="strength-div">
+            <!-- <h1>Password Strength Check</h1> -->
+            <div class="user-input-div">
+                <form action="none" id="passchk_form">
+                    <div>
+                        <p>Enter your password or passphrase here:</p>
+                    </div>
+                    <input type="text" size="40" id="passchk_pass" />
+                </form>
+                <span id="passchk_result">Loading ...</span>
+                <div id="the_progressbar"></div>
+            </div>
+            <div class="user-output-div">
+                <h2>Particular</h2>
+                <div class="info-color">
+                    <div id="red">
+                        <div class="keyCellRed"></div>
+                        <div>&#8594; Very Weak.</div>
+                    </div>
+                    <div id="brown">
+                        <div class="keyCellBrown"></div>
+                        <div> &#8594; Weak.</div>
+                    </div>
+                    <div id="orange">
+                        <div class="keyCellOrange"></div>
+                        <div> &#8594; Medium.</div>
+                    </div>
+                    <div id="yellow">
+                        <div class="keyCellYellow"></div>
+                        <div> &#8594; Strong.</div>
+                    </div>
+                    <div id="green">
+                        <div class="keyCellGreen"></div>
+                        <div> &#8594; Very Strong.</div>
+                    </div>
+                </div>
+                <p style="font-weight:600;">Note: We do not store your data.</p>
+            </div>
+        </div>
+        <!-- pass strength check end -->
         <div class="end-area">
             <p><a href="https://github.com/TheRuchirShah/" target="_blank">Ruchir Shah</a></p>
         </div>
