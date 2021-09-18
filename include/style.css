@@ -347,7 +347,7 @@ a:hover {
 }
 
 /* Responsive media querries */
-@media (min-width: 300px) {
+/* @media (min-width: 300px) {
 	.container {
 		width: 90%;
 		margin-top: 30px;
@@ -412,4 +412,4 @@ a:hover {
 		font-size: 18px;
 		font-weight: 500;
 	}
-}
+} */
