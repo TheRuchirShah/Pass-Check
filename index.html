@@ -8,30 +8,35 @@
     <!-- Primary Meta Tags -->
     <title>Easy Password Generator - Ruchir Shah</title>
     <meta name="title" content="Easy Password Generator - Ruchir Shah">
-    <meta name="description" content="Password Generator by Ruchir Shah to create secure passwords that are impossible to crack. And get the Complete Guide for Passwords book to keep your passwords, accounts, and documents safe all across the internet.">
+    <meta name="description"
+        content="Password Generator by Ruchir Shah to create secure passwords that are impossible to crack. And get the Complete Guide for Passwords book to keep your passwords, accounts, and documents safe all across the internet.">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://theruchirshah.github.io/Password-Generator/">
     <meta property="og:title" content="Easy Password Generator - Ruchir Shah">
-    <meta property="og:description" content="Password Generator by Ruchir Shah to create secure passwords that are impossible to crack. And get the Complete Guide for Passwords book to keep your passwords, accounts, and documents safe all across the internet.">
-    <meta property="og:image" content="https://raw.githubusercontent.com/TheRuchirShah/Password-Generator/main/img/asset-img.png">
+    <meta property="og:description"
+        content="Password Generator by Ruchir Shah to create secure passwords that are impossible to crack. And get the Complete Guide for Passwords book to keep your passwords, accounts, and documents safe all across the internet.">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/TheRuchirShah/Password-Generator/main/img/asset-img.png">
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://theruchirshah.github.io/Password-Generator/">
     <meta property="twitter:title" content="Easy Password Generator - Ruchir Shah">
-    <meta property="twitter:description" content="Password Generator by Ruchir Shah to create secure passwords that are impossible to crack. And get the Complete Guide for Passwords book to keep your passwords, accounts, and documents safe all across the internet.">
-    <meta property="twitter:image" content="https://raw.githubusercontent.com/TheRuchirShah/Password-Generator/main/img/asset-img.png">
+    <meta property="twitter:description"
+        content="Password Generator by Ruchir Shah to create secure passwords that are impossible to crack. And get the Complete Guide for Passwords book to keep your passwords, accounts, and documents safe all across the internet.">
+    <meta property="twitter:image"
+        content="https://raw.githubusercontent.com/TheRuchirShah/Password-Generator/main/img/asset-img.png">
     <!--   Meta Tags End   -->
-    <link rel="icon" href="img/favicon.svg" type="image/png">
-    <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="./check.css">
+    <link rel="icon" href="./include/img/favicon.png" type="image/png">
+    <link rel="stylesheet" href="./include/style.css">
+    <link rel="stylesheet" href="./include/check.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 </head>
 
 <body>
     <main>
-        <div class="main-area">
-            <h1>Easy Password Generator</h1>
+        <div class="site-name">
+            <h1>Password Generator & Strength Checker</h1>
         </div>
         <div class="container">
             <h2 class="title">Password Generator</h2>
@@ -67,10 +72,9 @@
             </div>
             <button class="btn generate" id="generate">Generate Password</button>
         </div>
-                <!-- pass strength check -->
-        <h1>Password Strength Check</h1>
+        <!-- pass strength check -->
         <div class="strength-div">
-            <!-- <h1>Password Strength Check</h1> -->
+            <h2 class="titlestr">Password Strength Check</h2>
             <div class="user-input-div">
                 <form action="none" id="passchk_form">
                     <div>
@@ -82,7 +86,7 @@
                 <div id="the_progressbar"></div>
             </div>
             <div class="user-output-div">
-                <h2>Particular</h2>
+                <h4>Particular</h4>
                 <div class="info-color">
                     <div id="red">
                         <div class="keyCellRed"></div>
@@ -105,7 +109,8 @@
                         <div> &#8594; Very Strong.</div>
                     </div>
                 </div>
-                <p style="font-weight:600;">Note: We do not store your data.</p>
+                <p style="font-weight:600; text-align:center; margin:5px; color:#979797">Note: We do not store your
+                    data.</p>
             </div>
         </div>
         <!-- pass strength check end -->
@@ -113,11 +118,13 @@
             <p><a href="https://github.com/TheRuchirShah/" target="_blank">Ruchir Shah</a></p>
         </div>
         <div class="support">
-            <a href="./file/Complete_Guide_of_Passwords_by_Password_Generator.pdf" target="_blank"><i class="fas fa-file-alt"></i></a>
+            <a href="./include/file/Complete_Guide_of_Passwords_by_Password_Generator.pdf" target="_blank"><i
+                    class="fas fa-file-alt"></i></a>
             <a href="#" target="_blank"><i class="fas fa-info-circle"></i></a>
         </div>
     </main>
-    <script src="./script.js" async defer></script>
+    <script src="./include/script.js" async defer></script>
+    <script src="./include/check.js" async defer></script>
 </body>
 
 </html>
