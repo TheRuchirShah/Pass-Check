@@ -5,14 +5,23 @@ To Generator Password and Strength Checker
 
 [![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
 
-You can create a new passwords with customizable parameters like upper-case letters, lower-case letters, numbers, special characters, and characters length)
+Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my privacy. I've created this website to create new passwords and check its strength 
 
+#### You can create a new passwords with customizable parameters like upper-case letters, lower-case letters, numbers, special characters, and characters length)
 
 - **Upper-case - ABCDEFGHIJKLMNOPQRSTUVWXYZ**
 - **Lower-case -  abcdefghijklmnopqrstuvwxyz**
 - **Numbers - 0123456789**
 - **special characters - '~!@#$%^ ...(& many more)**
 - **Characters length - 32**
+
+#### Password strength 
+
+- **Very Weak**
+- **Weak**
+- **Medium**
+- **Strong**
+- **Very Strong**
 
 
 # Edit Here
