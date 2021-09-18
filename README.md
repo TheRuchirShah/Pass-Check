@@ -5,7 +5,7 @@ To Generator Password and Strength Checker
 
 [![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
 
-Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my privacy. I've created this website to create new passwords and check its strength 
+Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my privacy. I've created this website for everyone to create new passwords and check the passwords stremgth. You can create 32 characters long passwords which includes upper, lower, special characters, and numbers. Passwords strength checker inform you that the password is weak or strong.
 
 ### You can create a new passwords with customizable parameters like upper-case letters, lower-case letters, numbers, special characters, and characters length)
 
