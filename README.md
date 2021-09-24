@@ -2,7 +2,7 @@
 To Generate and Strength Check of Passwords
 
 
-**I've created this website to generate new passwords and check passwords strength. It does not store your data. [Visit Site](https://theruchirshah.github.io/Pass-Check/)**
+**I've created this [website](https://theruchirshah.github.io/Pass-Check/) to generate new passwords and check passwords strength. It does not store your data. 
 
 [![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
 
@@ -37,3 +37,5 @@ Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my p
 - [x] Prohibit password re-use. You should be forbidden from using the same passwords across their personal and work accounts. i.e. using same password for different accounts Gmail & Outlook & Facebook Twitter
 - [x] If you ever need to share your password, change it when the other person is done with using it.
 
+
+Visit site from [here](https://theruchirshah.github.io/Pass-Check/)**
