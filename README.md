@@ -20,11 +20,11 @@ Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my p
 
 ### Password strength 
 
-- **Very Weak**
-- **Weak**
-- **Medium**
-- **Strong**
-- **Very Strong**
+- Very Weak
+- Weak
+- Medium
+- Strong
+- Very Strong
 
 
 ### Password Check List
