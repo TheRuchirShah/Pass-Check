@@ -38,4 +38,4 @@ Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my p
 - [x] If you ever need to share your password, change it when the other person is done with using it.
 
 
-Visit site from [here](https://theruchirshah.github.io/Pass-Check/)**
+Visit site from [here](https://theruchirshah.github.io/Pass-Check/)
