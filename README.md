@@ -1,4 +1,4 @@
-# Password-Generator & Strength Checker
+# Password Generator & Strength Checker
 To Generator Password and Strength Checker
 
 **I've created this website to generate new passwords and check passwords strength. It does not store your data.**
@@ -38,3 +38,4 @@ If you ever need to share your password, change it when the other person is done
 
 # Edit End Here
 
+#### by Ruchir Shah
