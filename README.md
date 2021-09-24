@@ -1,6 +1,8 @@
 # Password Generator & Strength Checker
 To Generator Password and Strength Checker
 
+[Visit Site](https://theruchirshah.github.io/Pass-Check/)
+
 **I've created this website to generate new passwords and check passwords strength. It does not store your data.**
 
 [![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
