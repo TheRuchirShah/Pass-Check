@@ -2,7 +2,7 @@
 To Generate and Strength Check of Passwords
 
 
-**I've created this [website](https://theruchirshah.github.io/Pass-Check/) to generate new passwords and check passwords strength. It does not store your data. 
+**I've created this [website](https://theruchirshah.github.io/Pass-Check/) to generate new passwords and check passwords strength. It does not store your data.** 
 
 [![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
 
