@@ -109,6 +109,7 @@ p {
   border-radius: 10px;
   margin: 20px 0;
   width: 370px;
+  box-shadow: 0 0 5px rgb(0 0 0 / 45%), 0 4px 8px rgb(0 0 0 / 35%), 0 8px 12px rgb(0 0 0 / 15%);
 }
 .strength-div h2.titlestr {
   text-align: center;
