@@ -39,3 +39,14 @@ Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my p
 
 
 Visit site from [here](https://theruchirshah.github.io/Pass-Check/)
+
+##
+
+
+### **You can read this [E-Book](https://theruchirshah.github.io/Pass-Check/include/file/Complete_Guide_of_Passwords_by_Ruchir_Shah.pdf) to know more about passwords includes tips to create and keep your passwords secure.**
+
+[![E-Book Screenshot](/include/readme-files/e-book-preview-image.png)](https://theruchirshah.github.io/Pass-Check/)
+[![E-Book Screenshot](/include/readme-files/A4 - 1.png)](https://theruchirshah.github.io/Pass-Check/)
+
+
+ ### **This site does not store your data.** 
