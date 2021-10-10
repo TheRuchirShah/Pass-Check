@@ -4,7 +4,7 @@ To Generate and Strength Check of Passwords
 
 **I've created this [website](https://theruchirshah.github.io/Pass-Check/) to generate new passwords and check passwords strength. It does not store your data.** 
 
-[![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://site-url)
+[![Pass Check Site Screenshot](/include/readme-files/hero-image.png)](https://theruchirshah.github.io/Pass-Check/)
 
 Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my privacy. I've created this website for everyone to create new passwords and check the passwords stremgth. You can create 32 characters long passwords which includes upper, lower, special characters, and numbers. Passwords strength checker inform you that the password is weak or strong.
 
