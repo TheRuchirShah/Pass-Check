@@ -50,4 +50,4 @@ Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my p
 ##
 
 
-### **This site does not store your data.** 
+**This site does not store your data.** 
